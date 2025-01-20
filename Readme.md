@@ -33,7 +33,7 @@ Amazon-clone/
 ### Desktop View
 
 <p align="center">
-<img src="assets/amazon_md.png" height="500px" style="border-radius:20px;">
+<img src="assets/amazon_md.png" height="350px" style="border-radius:20px;">
 </p>
 
 ## Future Enhancements
