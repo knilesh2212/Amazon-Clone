@@ -25,7 +25,7 @@ body {
 }
 
 .logo {
-    background-image: url(amazon_logo.webp);
+    /* background-image: url(assets/amazon_logo.webp); */
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -152,7 +152,7 @@ span {
 
 /***************************(hero-section)***********************************/
 .hero-section {
-    background-image: url(hero_image.webp);
+    background-image: url(assets/hero_image.webp);
     background-size: cover;
     height: 350px;
     display: flex;
