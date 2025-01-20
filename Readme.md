@@ -12,18 +12,18 @@ A simple Amazon clone landing page built using HTML, CSS, and JavaScript. This p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/amazon-clone-landing-page.git
+   git clone https://github.com/knilesh2212/Amazon-clone.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd amazon-clone-landing-page
+   cd Amazon-clone
    ```
 3. Open `index.html` in your preferred web browser.
 
 ## Folder Structure
 
 ```
-amazon-clone-landing-page/
+Amazon-clone/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -33,7 +33,7 @@ amazon-clone-landing-page/
 ### Desktop View
 
 <p align="center">
-<img src="assets/amazon_md.png" height="200px" style="border-radius:20px;">
+<img src="assets/amazon_md.png" height="500px" style="border-radius:20px;">
 </p>
 
 ## Future Enhancements
